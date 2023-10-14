@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cv">ГРАМОТА</string>
+    <string name="tv1">награждается</string>
+    <string name="desc">за вклад в развитие организации, за усердный труд и пример для молодежи</string>
+    <string name="date">дата</string>
+    <string name="podp">подпись</string>
+    <string name="title">название                                                                                              компании</string>
+</resources>
